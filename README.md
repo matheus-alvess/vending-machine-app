@@ -6,12 +6,12 @@ Este é um projeto de uma Máquina de Vendas que contabiliza e valida seu troco 
 
 Para rodar a aplicação você precisa ter instalado em sua máquina o node-v8 (caso não tenha clique [aqui](https://nodejs.org) ou superior. E também o gerenciador de pacotes do node, NPM ou Yarn.
 
-## Para Começar
+## Começando
 
 Para rodar a aplicação pela primeira vez é necessário rodar algum dos seguintes comandos:
 
 ```
-1 - yarn ou npm install
+yarn ou npm install
 ```
 
 Depois disso, abra o arquivo index.js e modique os parâmetros da chamada do função, por exemplo:
